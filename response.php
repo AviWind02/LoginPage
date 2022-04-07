@@ -1,3 +1,4 @@
+//THIS FILE STORED ON THE HOST FOR THE LOGIN FUNCTION TO WORK.
 <?php
 include ('connection.php');
 // LOGIN USER
