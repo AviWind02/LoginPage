@@ -1,8 +1,8 @@
 # LoginPage
-This is just a test project i made for fun	
-Feel free to use this if you find this and credit me if you can!	
+This is just a test project i made for fun  
+Feel free to use this if you find this and credit me if you can!  	  
 
-username: test	
+username: test  
 password: !Test
 
 :)
